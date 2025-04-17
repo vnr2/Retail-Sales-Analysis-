@@ -16,7 +16,7 @@ This Project is conducted to demonstrate SQL skills and techniques typically use
 1.**Database Setup**
 A database is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
-2)**Data Exploration & Cleaning*
+2.**Data Exploration & Cleaning**
 *Determine the total number of records in the dataset.
 *Customer Count: Find out how many unique customers are in the dataset.
 *Category Count: Identify all unique product categories in the dataset.
@@ -26,7 +26,8 @@ A database is created to store the sales data. The table structure includes colu
 
 a) **Customer Demographics**: The Dataset includes customers from various age groups, with sales distributed across 
    different categories such as Clothing and Beauty.
-b) **High Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases
+b) **High Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium 
+   purchases
 c) **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
 d) **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
 
